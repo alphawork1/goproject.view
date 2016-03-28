@@ -1,0 +1,62 @@
+.project-page-content {
+	width: 800px;
+	margin: 0 auto;
+	position: relative;
+}
+
+/*.project-page-form-group-input,
+.project-page-form-group-select
+{
+	display: flex;
+	height: 60px;
+}
+
+
+.project-page-form-group-input.focused .floating-label,
+.project-page-form-group-textarea.focused .floating-label,
+.project-page-form-group-select.focused .floating-label {
+	opacity: 1;
+	transform: scale(1);
+	font-size: 12px;
+	color: #3F51B5
+}
+
+.project-page-form-group-input .form-control.empty,
+.project-page-form-group-textarea .form-control.empty,
+.project-page-form-group-select .form-control.empty
+{
+	align-self: flex-end;
+	font-size: 15px;
+}
+
+
+.project-page-form-group-textarea {
+	display: flex;
+	height:110px;
+}
+
+.project-page-check-members {
+	color: #4CAF50;
+}
+
+.project-page-avatar-members {
+	width: 60px;
+	height: 60px;
+	background-color: #fff;
+	color: #FFF;
+	border-radius: 50%;
+	border: 2px solid #fff;
+	}*/
+
+
+	.project-page-member-table-tr{
+		border-top: 2px dashed #ddd;
+	}
+
+/*.member-painel-btn-add .icon {
+	margin: 0px!important;
+	}*/
+
+
+
+
